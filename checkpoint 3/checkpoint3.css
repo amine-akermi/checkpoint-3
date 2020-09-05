@@ -1,0 +1,55 @@
+.date-p {
+  color: blue;
+  font-size: 20px;
+}
+.title-p {
+  color: red;
+  font-size: 28px;
+  text-align: center;
+}
+header {
+  background-color: #eee;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+header a {
+  padding-right: 18px;
+  font-size: 30px;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th,
+td {
+  padding: 5px;
+  text-align: left;
+}
+a:hover {
+  color: #ff3366;
+}
+
+#color-time {
+  color: aqua;
+}
+#table {
+  border: 5px double orange;
+  margin: auto;
+}
+td {
+  border: 5px dashed orange;
+}
+.border-bk {
+  background-color: #e6b70d;
+}
+#img-center {
+  object-fit: cover;
+}
+.quote {
+  font-size: 28px;
+  color: #e01818;
+}
